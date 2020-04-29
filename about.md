@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is a psuedo blog for PIONEER program e-government simulation game. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A Bautzen citizen. 
+Transportation takes us everywhere. 
+Education leads us to the future!  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yhsueh@uni-muenster.de](mailto:yhsueh@uni-muenster.de)
