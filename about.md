@@ -9,8 +9,10 @@ This is a psuedo blog for PIONEER program e-government simulation game.
 ### More Information
 
 A Bautzen citizen. 
+
 Transportation takes us everywhere. 
-Education leads us to the future!  
+
+_Education leads us to the future! _
 
 ### Contact me
 
