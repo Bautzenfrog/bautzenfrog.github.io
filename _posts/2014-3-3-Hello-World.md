@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Memo2020
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+What will be the future in Germany for me and my children? It took me eight hours by multiple transfers of trains to join the Memo2020 held in Münster in search of an answer. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Digitalization is mentioned all across the event. Indeed, the virtual connection would save me eight hours by reducing this kind of physical travel, but that investment could be from the education budget from my kids. Even in my wildest dream can I imagine building a cloud castle of digitalization on this land of peasants where the roots of mustards might have better connection than our broadband or public transportation infrastructure. 
