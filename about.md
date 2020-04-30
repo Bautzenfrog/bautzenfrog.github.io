@@ -12,7 +12,7 @@ A Bautzen citizen.
 
 Transportation takes us everywhere. 
 
-_Education leads us to the future! _
+Education leads us to the future!
 
 ### Contact me
 
